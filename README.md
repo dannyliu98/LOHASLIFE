@@ -1,41 +1,40 @@
-# 🛡️ LOHAS Life (樂活一生) - AI Agency for Digital Sovereignty
-
-![Security Level](https://img.shields.io/badge/Security-v26.0_Certified-gold.svg)
-![Mission](https://img.shields.io/badge/Mission-Reclaim_Sovereignty-blue.svg)
-
-> **"My Sovereignty, My Will, My LOHAS."**
-> **「我的主權，我的意志，我的樂活。」**
+# 🛡️ LOHAS Life (樂活一生)
+**Global Life-Sovereignty Agency Architecture | Series A Target: $50M**
 
 ---
 
-## 🌟 專案概述 (Project Overview)
-
-**[EN]** LOHAS Life is the world's first life-sovereignty protection system based on a **vertically integrated AI Agency architecture**. We upgrade AI from a passive assistant to a proactive "Agency" that comprehensively covers health, finance, social interactions, and privacy.
-
-**[ZH]** 《樂活一生》是全球首個基於 **AI Agency 垂直整合架構** 的生活主權守護系統。我們將 AI 從被動助手升級為具備主動執行力的「代理人」，全面覆蓋健康、財務、社交與隱私防護。
+## 🎯 我們的追求 (Our Pursuit)
+**重塑數位時代的生命主權與意志尊嚴。** **Reclaiming Life Sovereignty & Human Dignity in the Digital Era.**
 
 ---
 
-## ⚔️ v26.0 核心安全技術 (Core Defense Technology)
+## 🏗️ 八大垂直整合模組 (The 8 Integrated Modules)
 
-### 1. 物理級防護 | Physical Layer Defense
-- **[EN]** Utilizing HSM with Shamir's Secret Sharing (SSS) and Anti-SCA (Side-Channel Attack) constant-time circuitry.
-- **[ZH]** 採用物理隔離 HSM 與 Shamir 秘密分享 (SSS) 密鑰分片技術，具備抗側頻道分析 (Anti-SCA) 恆功耗電路設計。
+我們透過 AI Agency 垂直整合以下生命領域：
 
-### 2. 認知意志驗證 | Cognitive & Will Verification
-- **[EN]** **Consciousness Check**: Pupillary reflex and saccadic tracking to prevent unauthorized access during sleep or coercion.
-- **[ZH]** **意識偵測**: 透過瞳孔反應與眼動掃描，防止睡眠中或受物理脅迫時被強迫認證。
+1. **醫療健康與意志執行** | Health & DNR Proxy
+2. **社交安全與家庭防詐** | Social & Family Anti-Fraud
+3. **感官增強與意志延伸** | Vitality & Sensory Extension
+4. **財務信託與自動分配** | Finance & Auto-Trust
+5. **飲食營養與自動物聯** | Diet & Autonomous IoT
+6. **旅遊地理與路徑主權** | Journey & Path Sovereignty
+7. **居住空間與物理防禦** | Habitat & Physical Defense
+8. **遺產分配與舊檔刪除** | Legacy & Data Incineration
 
-### 3. 情感勒索過濾 | Emotional Exploitation Filter
-- **[EN]** **Behavioral Soulprint**: Real-time identification of Deepfake-forged voices and patterns to block psychological manipulation.
-- **[ZH]** **行為靈魂指紋**: 實時辨識 Deepfake 偽造的親人語音與行為模式，有效阻斷心理操縱與詐騙。
+---
+
+## 🛠️ 核心防禦技術 (Core Defense)
+* **CVA**: 意識狀態認證 (Consciousness Verification)
+* **SSS**: Shamir 秘密分享 (Shamir's Secret Sharing)
+* **HSM**: 物理級加密隔離 (Hardware Security Module)
+* **Soulprint**: 行為靈魂指紋識別 (Behavioral Identity)
 
 ---
 
 ## 📖 官方文件 (Official Documentation)
-
-* 🇹🇼 **[中文完整版白皮書 (Full Chinese Whitepaper)](./Whitepaper_ZH.md)**
-* 🇺🇸 **[English Full Whitepaper (International Strategy)](./Whitepaper_EN.md)**
+* 🇺🇸 **[English Whitepaper (The Strategy)](./Whitepaper_EN.md)**
+* 🇹🇼 **[中文完整版白皮書 (核心架構)](./Whitepaper_ZH.md)**
 
 ---
-© 2026 LOHAS Life Global. All rights reserved.
+## 🤝 投資人聯繫 (Investor Relations)
+**Currently seeking Series A funding ($50M USD).** **Contact:** [Insert Your Email / LinkedIn]
