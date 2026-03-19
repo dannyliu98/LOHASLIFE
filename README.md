@@ -12,7 +12,7 @@
 
 **[EN]** LOHAS Life is the world's first life-sovereignty protection system based on a **vertically integrated AI Agency architecture**. We upgrade AI from a passive assistant to a proactive "Agency" that comprehensively covers health, finance, social interactions, and privacy.
 
-**[ZH]** 《樂活一生》是全球首個基於 **AI Agency 垂直整合架構** 的生活主權守護系統。我們將 AI 從被動助手升級為具備主動執行力的「代議士」，全面覆蓋健康、財務、社交與隱私防護。
+**[ZH]** 《樂活一生》是全球首個基於 **AI Agency 垂直整合架構** 的生活主權守護系統。我們將 AI 從被動助手升級為具備主動執行力的「代理人」，全面覆蓋健康、財務、社交與隱私防護。
 
 ---
 
