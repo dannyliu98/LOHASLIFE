@@ -19,7 +19,7 @@
 5. **飲食營養與自動物聯** | Diet & Autonomous IoT
 6. **旅遊地理與路徑主權** | Journey & Path Sovereignty
 7. **居住空間與物理防禦** | Habitat & Physical Defense
-8. **遺產分配與舊檔刪除** | Legacy & Data Incineration
+8. **遺產分配與安全隱私** | Legacy & Data Incineration
 
 ---
 
