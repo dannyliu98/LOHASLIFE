@@ -23,6 +23,7 @@ Wisdom Legacy: Digitizes your insights into an Actively Defined Ideal Life, achi
 
 [3. Vision: Living with Brilliance and Sovereignty]
 LOHAS Life is about how to elegantly command and Enjoy and Safeguard the initiative of your life, every single day. This is a digital revolution for "Living Brilliantly."
+
 <br>
 <br>
 <br>
